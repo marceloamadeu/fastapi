@@ -1,0 +1,7 @@
+[project]
+name = "fastapi"
+version = "0.1.0"
+description = "FastAPI / UV / Data Science -> Tests"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
