@@ -3,14 +3,6 @@
 <p align="center">
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI">
 </p>
-<p align="center">
-  <img src="https://docs.astral.sh/uv/assets/logo-letter.svg" alt="UV">
-</p>
-<p align="center">
-  <img src="https://img.favpng.com/16/15/2/data-science-machine-learning-data-analysis-png-favpng-KNXS0CX59QEHyqU2kqV7aL3pq.jpg" alt="Data Science">
-</p>
-
-
 
 <p align="left">
 <a href="https://pypi.org/project/fastapi" target="_blank">
