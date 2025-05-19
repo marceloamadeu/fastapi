@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block title %}
+Perfil de {{ usuario.nome }}
+{% endblock %}
+
+{% block content %}
+<h2>Bem-vindo(a), {{ usuario.nome }}!</h2>
+<p>Você tem <strong>{{ usuario.idade }}</strong> anos.</p>
+
+<h3>Hobbies:</h3>
+<ul>
+    {% for hobby in usuario.hobbies %}
+        <li>{{ hobby }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}
